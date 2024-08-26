@@ -46,6 +46,10 @@ In this project, we leverage a Random Forest classifier to predict whether a tra
 - `plots/`: Folder containing the visualizations generated during the model evaluation phase.
 - `README.md`: This file, providing an overview and instructions for replicating the project.
 
+## Dataset Link
+https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud?resource=download
+
+
 ## How to Run
 
 1. Clone the repository:
